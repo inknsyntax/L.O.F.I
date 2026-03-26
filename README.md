@@ -1,4 +1,4 @@
-# L.O.F.I - Let Off Fear & Intention
+# L.O.F.I - Learn, Organize, & File Ideas
 
 A modern, full-featured study and productivity application with interactive tools, ambient soundscapes, and comprehensive educational content.
 
